@@ -5,7 +5,7 @@ export default function About() {
       {/* Header Banner */}
       <div className="glass-panel" style={{ padding: '2.5rem clamp(1.5rem, 4vw, 3rem)', textAlign: 'center', borderRadius: '16px' }}>
         <div style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '0.35rem 0.95rem', borderRadius: '999px', background: 'rgba(37, 99, 235, 0.08)', border: '1px solid rgba(37, 99, 235, 0.2)', color: 'var(--primary-color)', fontSize: '0.8rem', fontWeight: '700', marginBottom: '1rem', letterSpacing: '0.03em' }}>
-          TEAM UNHANDLED EXCEPTIONS • TEAM ID: 26082
+          TEAM UNHANDLED EXCEPTIONS
         </div>
         <h1 style={{ margin: '0 0 1rem 0', fontSize: 'clamp(2rem, 3.5vw, 2.75rem)', fontWeight: '800', letterSpacing: '-0.02em' }}>
           About The Project & Stakeholder Impact
